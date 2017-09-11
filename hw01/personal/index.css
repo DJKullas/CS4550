@@ -1,0 +1,41 @@
+.bold {
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
+}
+
+.big {
+  font-size: 100px;
+}
+
+.medium {
+  font-size: 75px;
+}
+
+.small {
+  font-size: 50px;
+}
+
+.text {
+  padding-top: 70px;
+  width: 1200px;
+  font-size: 30px;
+  margin: 0 auto;
+}
+
+body {
+  background-image: url("uglybackground.jpg");
+}
+
+div {
+  height: auto;
+  width: 600px;
+  margin: 0 auto;
+}
+
+img {
+  width: 600px;
+  margin: 0 auto;
+}
