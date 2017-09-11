@@ -10,7 +10,7 @@ CCIS Username: DKoolJ
 Github repo URL: https://github.com/DJKullas/CS4550
 
 
-Domain:         djkullas.com
+Domain:         kullasdj.com
 
 
 Codeacademy Status: Learn HTML: 66%   Learn CSS: 28%
